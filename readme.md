@@ -28,7 +28,7 @@ Do admin podstrani imajo dostop samo uporabniki ki smo jih določili. Imajo dost
 <img src="https://i.imgur.com/rTSSCR3.png">
 <br><br>
 
-<b>-Registracija in prijava:</b>
+<b>-Registracija in prijava:</b><br>
 Za registracijo morajo uporabniki vnesti uporabniško ime, email, in dvakratno geslo. Prijavijo pa se z emailom in geslom.
 <img src="https://i.imgur.com/LPYBmaq.png">
 <br><br>
