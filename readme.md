@@ -7,7 +7,7 @@ Glavni namen spletne strani je objava in pomoč pri reševanju šolskih testov.
 <img src="https://i.imgur.com/F1i1YoR.png">
 
 <b>Glavne podstrani:</b>
-<br><br>
+<br>
 
 <b>-Dashboard:</b> <br>
 Uporabnik ima pregled na vsemi svojimi objavami, katere ima možnost tudi urejati ali brisati. Pravtako lahko uporabnik dodaja nave objave.
