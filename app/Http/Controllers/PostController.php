@@ -175,7 +175,7 @@ class PostController extends Controller
         $post = Post::find($id);
 
 
-        //Preveri ali je uporabnik ustrezen
+        //Preveri ali je uporabnik ustrezen.
         if (auth()->user()->id == $post->user_id) {
 
             //Briši komentarje
